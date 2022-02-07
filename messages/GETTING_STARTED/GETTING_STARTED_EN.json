@@ -1,0 +1,69 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "getting-started",
+      "messages": [
+        {
+          "data": {
+            "content": "Hello welcome! How are you? It is a pleasure that you are here.\nWithout further ado, we start with a brief introduction, do you think?",
+            "embeds": [
+              {
+                "title": ":city_dusk: | Community",
+                "color": 5793266,
+                "fields": [
+                  {
+                    "name": "What's this?",
+                    "value": "This? It's a discord server. Now jokes aside: this is a community whose theme is open source and software development. It is a family, a team that seeks to innovate with promising projects in which the majority can participate and thus generate a constructive environment."
+                  },
+                  {
+                    "name": "What can I do here?",
+                    "value": "Here you can: participate in open source projects, create teams, promote your open source projects, make new friends, have constructive chats, gain knowledge, ask and answer questions, and more!"
+                  },
+                  {
+                    "name": "What are the benefits?",
+                    "value": "Personally, I think the benefits are quite relative. We do not have a general objective as to the benefits that we will offer you.\n\nEven so, we give you some of the possible benefits:\n1. Mainly practice-oriented learning.\n2. Practice on real projects.\n3. Constructive conversations.\n4. Learn and teach with questions and answers.\n5. Interview with experienced people.\n6. Code competitions."
+                  }
+                ],
+                "footer": {
+                  "text": "The Open Nerse Contributors"
+                }
+              },
+              {
+                "title": "<:open_source:939992956344090734> | Open Source",
+                "color": 5793266,
+                "fields": [
+                  {
+                    "name": "What is \"open source\"?",
+                    "value": "> Open source is source code that is made freely available for possible modification and redistribution. Products include permission to use the source code, design documents, or content of the product. The open-source model is a decentralized software development model that encourages open collaboration. A main principle of open-source software development is peer production, with products such as source code, blueprints, and documentation freely available to the public. The open-source movement in software began as a response to the limitations of proprietary code. The model is used for projects such as in open-source appropriate technology, and open-source drug discovery.\n\nSource: https://en.wikipedia.org/wiki/Open_source"
+                  },
+                  {
+                    "name": "Why open source?",
+                    "value": "It's simple: because we believe that open source is the best way to share our work, allow other people to contribute, organize ourselves, and have decentralized development without a lot of chaos. That way everyone will have the opportunity to participate."
+                  }
+                ],
+                "footer": {
+                  "text": "The Open Nerse Contributors"
+                }
+              },
+              {
+                "title": ":map: | Translations",
+                "description": "For an official translation of this message, see: https://github.com/openerse/discord",
+                "color": 5793266,
+                "footer": {
+                  "text": "The Open Nerse Contributors"
+                }
+              }
+            ]
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/939925514989228112/OnHul8w4A2Jbf1feHgBtd2Rt_LhACfvgwM_VfE9p2IjSdW0WU_r8jkK6fKS21YgaAdwc"
+        }
+      ]
+    }
+  ]
+}
